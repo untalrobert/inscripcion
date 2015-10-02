@@ -324,6 +324,7 @@ and (max-width : 1199px) {
 
 /**** Start Feature Section ****/
 
+.section-title .text-center p
 
 .feature, .feature-2 {
     padding-bottom: 80px;
