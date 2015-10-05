@@ -169,7 +169,8 @@ fieldset[disabled] .btn-primary.active {
      background: url(../images/auditorio.jpg) no-repeat;
     height: 135px;
     float: center;
-    margin-left: 45px;
+    margin-left: 9%;
+    width: 100%;
 }
 
 .orientacion{
