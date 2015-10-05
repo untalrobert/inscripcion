@@ -137,10 +137,13 @@ fieldset[disabled] .btn-primary.active {
 
 .red {
    background: url(../images/universidad.jpg) no-repeat;
+   height: 200px;
+    width:100%;
+    text-align: center;
 }
 
 .light-red {
-    background: url(../images/universidad.jpg) no-repeat;
+    background: url(../images/panoramica.jpg) no-repeat;
     height: 200px;
     width:100%;
     float: center;
@@ -148,6 +151,7 @@ fieldset[disabled] .btn-primary.active {
 
 .light-orange {
     background: #FA6900;
+    
 }
 
 .color {
