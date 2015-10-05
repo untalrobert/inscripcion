@@ -162,6 +162,12 @@ fieldset[disabled] .btn-primary.active {
 }
 
 
+.auditorio {
+     background: url(../images/auditorio.jpg) no-repeat;
+    height: 90px;
+    float: center;
+}
+
 .orientacion{
     background-color: red;
     height: 20px;
