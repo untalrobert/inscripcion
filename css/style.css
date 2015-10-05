@@ -129,7 +129,7 @@ fieldset[disabled] .btn-primary.active {
 
 .blue {
    background: #28ABE3;
-   height: 175px;
+   height: 173px;
 }
 
 .green {
@@ -141,14 +141,14 @@ fieldset[disabled] .btn-primary.active {
    background: url(../images/universidad.jpg) no-repeat;
    height: 200px;
     width:100%;
-    text-align: center;
+    
 }
 
 .light-red {
     background: url(../images/panoramica.jpg) no-repeat;
     height: 200px;
     width:100%;
-    float: center;
+   
 }
 
 .light-orange {
@@ -161,7 +161,7 @@ fieldset[disabled] .btn-primary.active {
      background: url(../images/deporte.jpg) no-repeat;
       height: 200px;
      width:100%;
-     float: center;
+    
 }
 
 
