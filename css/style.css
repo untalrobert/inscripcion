@@ -3,7 +3,7 @@
 
 
 body {
-    background: url(../images/background.jpg) no-repeat;
+  
     background-attachment: fixed;
     background-size: cover;
     background-position: 50% 50%;
@@ -128,7 +128,7 @@ fieldset[disabled] .btn-primary.active {
 /**** Start Background Color ****/
 
 .blue {
-    background: #28ABE3;
+   background: #28ABE3;
 }
 
 .green {
@@ -136,11 +136,14 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .red {
-    background: #FF432E;
+   background: url(../images/universidad.jpg) no-repeat;
 }
 
 .light-red {
-    background: #FB6648;
+    background: url(../images/universidad.jpg) no-repeat;
+    height: 200px;
+    width:100%;
+    float: center;
 }
 
 .light-orange {
@@ -148,9 +151,17 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .color {
-    background: #0ECEAB;
+     background: url(../images/deporte.jpg) no-repeat;
+      height: 200px;
+    width:100%;
+    float: center;
 }
 
+
+.orientacion{
+    background-color: red;
+    height: 20px;
+}
 
 
 /**** Start Main Body Section ****/
