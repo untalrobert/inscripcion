@@ -167,7 +167,7 @@ fieldset[disabled] .btn-primary.active {
 
 .auditorio {
      background: url(../images/auditorio.jpg) no-repeat;
-    height: 90px;
+    height: 135px;
     float: center;
 }
 
@@ -180,15 +180,15 @@ fieldset[disabled] .btn-primary.active {
 /**** Start Main Body Section ****/
 
 .mainbody-section {
-    padding-top: 50px;
-    padding-bottom: 30px;
+    padding-top: 25px;
+    padding-bottom: 10px;
 }
 
 .menu-item {
     color: #fff;
-    padding-top: 10px;
+    padding-top: 20px;
     padding-bottom: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
 	
