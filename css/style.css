@@ -180,6 +180,20 @@ fieldset[disabled] .btn-primary.active {
     width: 100%;
 }
 
+.biblioteca {
+     background: url(../images/biblioteca.jpg) no-repeat;
+    height: 135px;
+    float: center;
+    width: 100%;
+}
+
+.piscina {
+     background: url(../images/piscina.jpg) no-repeat;
+    height: 135px;
+    float: center;
+    width: 100%;
+}
+
 .orientacion{
     background-color: red;
     height: 20px;
