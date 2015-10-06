@@ -134,11 +134,13 @@ fieldset[disabled] .btn-primary.active {
 .blue {
    background: #28ABE3;
    height: 173px;
+   box-shadow: 4px 4px 3px #424040;
 }
 
 .green {
     background: #72bf48;
     height: 150px;
+    box-shadow: 4px 4px 3px #424040;
 }
 
 .red {
@@ -160,12 +162,14 @@ fieldset[disabled] .btn-primary.active {
 .light-orange {
     background: #FA6900;
     height: 150px;
+    box-shadow: 4px 4px 3px #424040;
     
 }
 
 .yellow{
     background: #BB8809;
     height: 137px;
+    box-shadow: 4px 4px 3px #424040;
 }
 
 .color {
