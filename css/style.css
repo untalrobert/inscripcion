@@ -185,24 +185,18 @@ fieldset[disabled] .btn-primary.active {
 .auditorio {
      background: url(../images/auditorio.jpg) no-repeat;
     height: 135px;
-    float: center;
-    width: 100%;
     box-shadow: 4px 4px 3px #424040;
 }
 
 .biblioteca {
      background: url(../images/biblioteca.jpg) no-repeat;
     height: 135px;
-    float: center;
-    width: 100%;
     box-shadow: 4px 4px 3px #424040;
 }
 
 .piscina {
      background: url(../images/piscina.jpg) no-repeat;
     height: 135px;
-    float: center;
-    width: 100%;
     box-shadow: 4px 4px 3px #424040;
 }
 
