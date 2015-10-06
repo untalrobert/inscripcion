@@ -144,7 +144,7 @@ fieldset[disabled] .btn-primary.active {
 .red {
    background: url(../images/universidad.jpg) no-repeat;
    height: 178px;
-    box-shadow: 4px 4px 5px #999;
+   box-shadow: 4px 4px 3px #424040;
 
     
 }
@@ -153,7 +153,7 @@ fieldset[disabled] .btn-primary.active {
     background: url(../images/panoramica.jpg) no-repeat;
     height: 150px;
     width:100%;
-    box-shadow: 4px 4px 5px #999;
+    box-shadow: 4px 4px 3px #424040;
    
 }
 
@@ -172,7 +172,7 @@ fieldset[disabled] .btn-primary.active {
      background: url(../images/deporte.jpg) no-repeat;
       height: 178px;
       width:100%;
-      box-shadow: 2px 2px 5px #999;
+      box-shadow: 4px 4px 3px #424040;
 
     
 }
@@ -183,7 +183,7 @@ fieldset[disabled] .btn-primary.active {
     height: 135px;
     float: center;
     width: 100%;
-    box-shadow: 4px 4px 5px #999;
+    box-shadow: 4px 4px 3px #424040;
 }
 
 .biblioteca {
@@ -191,7 +191,7 @@ fieldset[disabled] .btn-primary.active {
     height: 135px;
     float: center;
     width: 100%;
-    box-shadow: 4px 4px 5px #999;
+    box-shadow: 4px 4px 3px #424040;
 }
 
 .piscina {
@@ -199,13 +199,13 @@ fieldset[disabled] .btn-primary.active {
     height: 135px;
     float: center;
     width: 100%;
-    box-shadow: 4px 4px 5px #999;
+    box-shadow: 4px 4px 3px #424040;
 }
 
 .orientacion{
     background-color: red;
     height: 20px;
-    box-shadow: 4px 4px 5px #999;
+    box-shadow: 4px 4px 3px #424040;
 
 }
 
