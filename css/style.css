@@ -160,6 +160,11 @@ fieldset[disabled] .btn-primary.active {
     
 }
 
+.yellow{
+    background: #BB8809;
+    height: 137px;
+}
+
 .color {
      background: url(../images/deporte.jpg) no-repeat;
       height: 200px;
@@ -172,7 +177,6 @@ fieldset[disabled] .btn-primary.active {
      background: url(../images/auditorio.jpg) no-repeat;
     height: 135px;
     float: center;
-    margin-left: 9%;
     width: 100%;
 }
 
