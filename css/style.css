@@ -1,9 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600);
 @import url(http://fonts.googleapis.com/css?family=Oswald:400,300);
 
-
-
-
 body { 
   margin: 0; 
   background: url(http://i.imgur.com/sBTmP4A.jpg) no-repeat;
@@ -163,14 +160,14 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .light-orange {
-    background: #FA6900;
+    background-color: #FF432E;
     height: 150px;
     box-shadow: 4px 4px 3px #424040;
     
 }
 
 .yellow{
-    background: #BB8809;
+    background: #FA6900;
     height: 137px;
     box-shadow: 4px 4px 3px #424040;
 }
@@ -1015,3 +1012,8 @@ and (max-width : 991px) {
     padding: 20px;
     color: #fff;
 }
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+   
+    }
