@@ -182,9 +182,10 @@ fieldset[disabled] .btn-primary.active {
 }
 .andes{
     background: #FFEF53;
-    height: 140px;
+    height: 120px;
     box-shadow: 4px 4px 3px #424040;
     color: #333;
+    margin-bottom: 20px;
 }
 
 .andes p{
